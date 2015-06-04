@@ -10,6 +10,7 @@ import android.view.MenuItem;
 //THIS is to test merging
 public class MainActivity extends ActionBarActivity {
 
+    //I'm testing to see If I can merge!
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
