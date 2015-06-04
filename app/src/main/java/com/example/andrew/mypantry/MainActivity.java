@@ -7,6 +7,7 @@ import android.view.MenuItem;
 
 // This is David Lee
 // This is Andrew test
+//THIS is to test merging
 public class MainActivity extends ActionBarActivity {
 
     @Override
